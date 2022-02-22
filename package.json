@@ -1,0 +1,19 @@
+{
+  "name": "discovery-clone",
+  "version": "1.0.0",
+  "description": "Unit-5-construct-week-Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vipchoudhary13/Discovery-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vipchoudhary13/Discovery-clone/issues"
+  },
+  "homepage": "https://github.com/Vipchoudhary13/Discovery-clone#readme"
+}
